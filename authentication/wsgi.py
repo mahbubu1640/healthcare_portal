@@ -1,5 +1,5 @@
 """
-WSGI config for authentication project.
+WSGI configs for authentication project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
